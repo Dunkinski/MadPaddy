@@ -1,0 +1,15 @@
+                scripts to get
+
+
+fix enemy scripts so they fall.
+ 
+fix enemy scripts so they walk up hills.
+
+main menu options: resume, pause, start and exit.
+
+Fix paddy to only flash when enemy makes contact with their punch.
+
+Fix paddy to walk up and down hills.
+
+Fix the clovers that to amount collected doesn't go past the amount set and activate the levelload gameobject when the amount that is set is colected.
+

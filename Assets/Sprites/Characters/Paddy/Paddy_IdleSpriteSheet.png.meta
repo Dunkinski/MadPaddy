@@ -1,0 +1,247 @@
+fileFormatVersion: 2
+guid: 0334fd21bf9fdeb4fb9a35cd4c453d41
+timeCreated: 1476833600
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Paddy_IdleSpriteSheet 1
+    21300002: Paddy_IdleSpriteSheet_0
+    21300004: Paddy_IdleSpriteSheet_1
+    21300006: Paddy_IdleSpriteSheet_2
+    21300008: Paddy_IdleSpriteSheet_3
+    21300010: Paddy_IdleSpriteSheet_4
+    21300012: Paddy_IdleSpriteSheet_5
+    21300014: Paddy_IdleSpriteSheet_6
+    21300016: Paddy_IdleSpriteSheet_7
+    21300018: Paddy_IdleSpriteSheet_8
+    21300020: Paddy_IdleSpriteSheet_9
+    21300022: Paddy_IdleSpriteSheet_10
+    21300024: Paddy_IdleSpriteSheet_11
+    21300026: Paddy_IdleSpriteSheet_12
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -3
+    compressionQuality: 50
+    allowsAlphaSplitting: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Paddy_IdleSpriteSheet_0
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 632
+        width: 498
+        height: 367
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Paddy_IdleSpriteSheet_1
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 572
+        width: 447
+        height: 444
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Paddy_IdleSpriteSheet_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 252
+        width: 128
+        height: 312
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Paddy_IdleSpriteSheet_3
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 252
+        width: 112
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Paddy_IdleSpriteSheet_4
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 464
+        width: 117
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Paddy_IdleSpriteSheet_5
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 468
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Paddy_IdleSpriteSheet_6
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 272
+        width: 356
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Paddy_IdleSpriteSheet_7
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 292
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Paddy_IdleSpriteSheet_8
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 293
+        width: 150
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Paddy_IdleSpriteSheet_9
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 288
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Paddy_IdleSpriteSheet_10
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 8
+        width: 356
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Paddy_IdleSpriteSheet_11
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 15
+        width: 248
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Paddy_IdleSpriteSheet_12
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 4
+        width: 176
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
